@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ashok Kumar — Developer Portfolio 🚀
 
-## Getting Started
+**Full Stack Developer | SaaS Builder**
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+A modern, responsive developer portfolio that showcases my projects, experience, education, skills, and resume — built with Next.js and deployed on Vercel.
+
+## 🌐 Live Demo
+
+- **Portfolio:** <https://ashok-portfolio-dev.vercel.app>
+- **Repository:** <https://github.com/ashoksamota0/Portfolio>
+
+## ✨ Features
+
+- 🎨 Clean, modern dark-themed UI
+- 📱 Fully responsive across mobile, tablet, and desktop
+- 🎬 Smooth animations with Framer Motion
+- 💻 Project showcase with live demo and GitHub links
+- 💼 Experience and 🎓 Education sections
+- 📄 Built-in resume viewer
+- 📧 Contact section with GitHub, LinkedIn, and LeetCode links
+- 🔍 SEO metadata for better discoverability
+- ⚡ Fast, optimized performance on Vercel
+
+## 🚀 Featured Projects
+
+| Project | Description | Live | Code |
+| --- | --- | --- | --- |
+| **VoxMeet** | Real-time video calling platform (WebRTC, Socket.io) | [Demo](https://voxmeet-video.vercel.app) | [GitHub](https://github.com/ashoksamota0/VoxMeet) |
+| **NeuralForge AI** | AI SaaS with writing, image, and resume tools | [Demo](https://neuralforge-ai-web.vercel.app) | [GitHub](https://github.com/ashoksamota0/NeuralForge-AI-SaaS) |
+| **TalentBridge** | MERN job portal for candidates and recruiters | [Demo](https://talent-bridge-portal.vercel.app) | [GitHub](https://github.com/ashoksamota0/TalentBridge) |
+
+## 🛠️ Tech Stack
+
+**Framework:** Next.js (App Router) · React · TypeScript
+
+**Styling & Animation:** Tailwind CSS · Framer Motion
+
+**Tooling:** ESLint · PostCSS
+
+**Deployment:** Vercel
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org) 18 or later
+- npm (comes with Node.js)
+
+### Run locally
 
 ```bash
+# 1. Clone the repo
+git clone https://github.com/ashoksamota0/Portfolio.git
+cd Portfolio
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the dev server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open <http://localhost:3000> in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Production build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+npm run start
+```
 
-## Learn More
+## 📁 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+Portfolio/
+├── app/        # Pages, layouts, and components (Next.js App Router)
+├── public/     # Images, resume, and static assets
+├── next.config.mjs
+├── tailwind.config.ts
+└── package.json
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌍 Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The site is deployed on [Vercel](https://vercel.com) and connected to this repository — every push to `main` triggers a new deployment.
 
-## Deploy on Vercel
+## 👤 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Ashok Kumar** — Full Stack Developer, Bengaluru, India
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- GitHub: [@ashoksamota0](https://github.com/ashoksamota0)
+- LinkedIn: [ashok~kumar](https://www.linkedin.com/in/ashok~kumar/)
+- LeetCode: [ashok19samota](https://leetcode.com/u/ashok19samota/)
+- Email: ashok19samota@gmail.com
+
+---
+
+<p align="center">Built with ❤️ by <strong>Ashok Kumar</strong></p>
