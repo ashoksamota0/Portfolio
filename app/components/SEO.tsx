@@ -25,8 +25,8 @@ export const SEO: React.FC<SEOProps> = ({
     "JavaScript Developer",
     "Next.js Developer",
   ],
-  ogUrl = "https://ashoksamota0.github.io",
-  canonical = "https://ashoksamota0.github.io",
+  ogUrl = "https://ashok-portfolio-dev.vercel.app",
+  canonical = "https://ashok-portfolio-dev.vercel.app",
 }) => {
   return (
     <Head>

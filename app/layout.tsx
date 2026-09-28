@@ -27,7 +27,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ashoksamota0.github.io"),
+  metadataBase: new URL("https://ashok-portfolio-dev.vercel.app"),
 
   title: {
     default: "Ashok Kumar - Full Stack Developer",
@@ -107,7 +107,7 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "Person",
     name: "Ashok Kumar",
-    url: "https://ashoksamota0.github.io",
+    url: "https://ashok-portfolio-dev.vercel.app",
     jobTitle: "Full Stack Developer",
 
     address: {
